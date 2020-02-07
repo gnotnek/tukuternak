@@ -1,0 +1,6 @@
+<resources>
+    <string name="namaAplikasi">Tuku Ternak</string>
+    <string name="input1">Email</string>
+    <string name="input2">Password</string>
+    <string name="hintTombol">Masuk</string>
+</resources>
